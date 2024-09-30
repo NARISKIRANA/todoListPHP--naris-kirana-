@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h2 {
+    color: #343a40;
+}
+
+.list-group-item {
+    font-size: 18px;
+}
+
+.btn {
+    margin-left: 10px;
+}
+
+.modal-body input, .modal-body textarea, .modal-body select {
+    font-size: 16px;
+}
